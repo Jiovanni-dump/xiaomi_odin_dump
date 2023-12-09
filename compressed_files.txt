@@ -1,0 +1,6 @@
+boot.img.xz
+vendor/lib64/libMegviiFacepp-0.5.2.so.xz
+vendor/lib/libMegviiFacepp-0.5.2.so.xz
+vendor/etc/camera/megviifacepp_0_5_2_model.xz
+vendor/etc/camera/st_license.lic.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
