@@ -1,0 +1,14 @@
+# missi-user 12 SKQ1.211006.001 V13.1.22.10.24.DEV release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: odin
+- flavor: missi-user
+- release: 12
+- id: SKQ1.211006.001
+- incremental: V13.1.22.10.24.DEV
+- tags: release-keys
+- fingerprint: Xiaomi/odin/odin:12/RKQ1.211001.001/V13.1.22.10.24.DEV:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-12-SKQ1.211006.001-V13.1.22.10.24.DEV-release-keys
+- repo: xiaomi_odin_dump

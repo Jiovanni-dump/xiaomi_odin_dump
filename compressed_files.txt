@@ -1,0 +1,14 @@
+system/system/app/VoiceAssist/VoiceAssist.apk.xz
+system/system/priv-app/MiuiCamera/MiuiCamera.apk.xz
+system/system/priv-app/MIUIVideo/MIUIVideo.apk.xz
+system/system/priv-app/MIUIGallery/MIUIGallery.apk.xz
+system/system/priv-app/MIUIMusic/MIUIMusic.apk.xz
+system/system/priv-app/MIUIBrowser/MIUIBrowser.apk.xz
+system/system/data-app/Health/Health.apk.xz
+modem.img.xz
+vendor/etc/camera/st_license.lic.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+boot.img.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
