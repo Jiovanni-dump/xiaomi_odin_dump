@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UKQ1.231207.002 V816.0.4.0.UKMCNXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: odin
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UKQ1.231207.002
+- incremental: V816.0.4.0.UKMCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/odin/odin:13/RKQ1.211001.001/V816.0.4.0.UKMCNXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_cn-user-14-UKQ1.231207.002-V816.0.4.0.UKMCNXM-release-keys
+- repo: xiaomi_odin_dump
